@@ -1,17 +1,17 @@
 # Interview
 
-## Questions
+## Questions: 
 
-### TDD
+1. TDD
+2. Code Coverage
 
-### Code Coverage
-Sollte Code Coverage als Metrik über die Qualität der Tests oder des Codes
-verstanden werden? Begründen Sie kurz ihre Antwort.
+   Sollte Code Coverage als Metrik über die Qualität der Tests oder des Codes
+   verstanden werden?
 
-### Design Patterns
+3. Design Patterns
  
 ## Exercises
 
-### JUnit
-### Clean
-### Gof
+1. JUnit
+2. Clean
+3. Gof
