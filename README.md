@@ -6,7 +6,7 @@
 2. Code Coverage
 
    Sollte Code Coverage als Metrik über die Qualität der Tests oder des Codes
-   verstanden werden? Begründen Sie kurz ihre Antwort.
+   verstanden werden?
 
 3. Design Patterns
  
