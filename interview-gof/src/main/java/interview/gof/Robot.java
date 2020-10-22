@@ -10,6 +10,6 @@ public class Robot {
     public void moveRobot() {
         System.out.println("The behaviour object decide the next move");
 
-        behaviour.move();
+        this.behaviour.move();
     }
 }

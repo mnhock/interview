@@ -16,6 +16,7 @@
 	    <module>interview-clean</module>
 		<module>interview-junit</module>
 		<module>interview-gof</module>
+		<module>interview-tdd</module>
 	</modules>
 
 	<properties>
