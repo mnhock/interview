@@ -4,6 +4,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 public class Name {
+
     private final String name;
 
     public Name(String first) {
@@ -27,9 +28,9 @@ public class Name {
     }
 
     public static void main(String[] args) {
-        Set names = new HashSet();
+        Set<Name> names = new HashSet<>();
         names.add(new Name("Donald Duck"));
+
         System.out.println(names.contains(new Name("Donald Duck"))); //prints false!!!
     }
-
 }
